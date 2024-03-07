@@ -1,0 +1,45 @@
+body > * {border: 2px solid black;
+    margin: 3px;
+
+}
+
+header {
+    color: rgb(50, 166, 50);
+    font-size: larger;
+    font-family: 'Helvetica';
+    text-align: center;
+    padding: 2%
+    ;
+
+}
+
+nav {
+    color: rgb(50, 166, 50);
+    font-size: larger;
+    font-family: 'Helvetica';
+    text-align: center;
+    padding: 2%;
+}
+
+aside {
+    color: rgb(50, 166, 50);
+    font-size: larger;
+    font-family: 'Helvetica';
+    display: inline-block;
+    width: 24vh;
+    text-align: center;
+    padding: 10.72%;
+  
+}
+
+footer{
+    color: rgb(50, 166, 50);
+    font-size: larger;
+    font-family: 'Helvetica';
+    text-align: center;
+    padding: 2%;
+}
+
+.Layout4 {
+    border: none;
+}
