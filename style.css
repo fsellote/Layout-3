@@ -26,10 +26,21 @@ aside {
     font-size: larger;
     font-family: 'Helvetica';
     display: inline-block;
-    width: 24vh;
+    width: 200px;
+    height: 50vh;
     text-align: center;
-    padding: 10.72%;
+    
   
+}
+
+.main {
+    color: rgb(50, 166, 50);
+    font-size: larger;
+    font-family: 'Helvetica';
+    display: inline-block;
+    width: 1065px;
+    height: 50vh;
+    text-align: center;
 }
 
 footer{
